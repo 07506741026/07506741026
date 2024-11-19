@@ -1,0 +1,16 @@
+{
+    "name": "discord-broadcast-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot for broadcasting messages to server members.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Studio 1MILLION",
+    "license": "ISC",
+    "dependencies": {
+        "discord-broadcast-bot": "file:",
+        "discord.js": "^14.11.0",
+        "dotenv": "^16.3.1"
+    }
+}
